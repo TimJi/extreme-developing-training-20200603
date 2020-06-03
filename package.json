@@ -1,0 +1,14 @@
+{
+  "name": "extreme-developing-training-20200603",
+  "version": "1.0.0",
+  "description": "extreme-developing-training-20200603",
+  "main": "index.js",
+  "author": "Tim Ji",
+  "license": "MIT",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^4.7.0"
+  }
+}
